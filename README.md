@@ -45,7 +45,7 @@ Rather than focusing only on syntax, the notebooks explain **how and why Python 
   * Reading from and writing to files
   * Working with CSV and JSON data
   * Exception handling using `try`, `except`, and related constructs
-  * Basic data validation and type conversion
+  * Basic data validation and type conversion.
 
 * **Object-Oriented & Advanced Python Concepts**
 
